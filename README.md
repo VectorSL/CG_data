@@ -1,5 +1,4 @@
 # CG_data
-CG_data v1
 ====
 ***
     CG渲染方式生成人脸特征点数据 vision1
