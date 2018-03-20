@@ -4,16 +4,9 @@
 ***
     CG渲染方式生成人脸特征点数据 vision2
 ***
-<figure class="third">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/0.png" width="300">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/1.png" width="300">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/2.png" width="300">
-</figure>
-<figure class="third">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/3.png" width="300">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/4.png" width="300">
-    <img src="https://github.com/VectorSL/CG_data/blob/master/data_v2/5.png" width="300">
-</figure>
+
+![](https://github.com/VectorSL/CG_data/blob/master/data_v2/0.png" width="300")
+![](https://github.com/VectorSL/CG_data/blob/master/data_v2/1.png" width="300")
 
 ### CG_data_v1
 ***
