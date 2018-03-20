@@ -5,8 +5,8 @@
     CG渲染方式生成人脸特征点数据 vision2
 ***
 
-![](https://github.com/VectorSL/CG_data/blob/master/data_v2/0.png width="300")
-![](https://github.com/VectorSL/CG_data/blob/master/data_v2/1.png width="300")
+![](https://github.com/VectorSL/CG_data/blob/master/data_v2/0.png)
+![](https://github.com/VectorSL/CG_data/blob/master/data_v2/1.png)
 
 ### CG_data_v1
 ***
