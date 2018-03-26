@@ -7,8 +7,7 @@
 
 <div align=center>
 ![V2](https://github.com/VectorSL/CG_data/blob/master/1.gif)
- 
-</div>
+
 
 ### CG_data_v1
 ***
