@@ -5,7 +5,9 @@
     CG渲染方式生成人脸特征点数据 vision2
 ***
 
+<div align=center>
 ![](https://github.com/VectorSL/CG_data/blob/master/1.gif)
+</div>
 
 ### CG_data_v1
 ***
